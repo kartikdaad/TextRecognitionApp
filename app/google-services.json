@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "967180839851",
+    "firebase_url": "https://text-recognition-app-76bef.firebaseio.com",
+    "project_id": "text-recognition-app-76bef",
+    "storage_bucket": "text-recognition-app-76bef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967180839851:android:b4f3ddc73156c6070740ee",
+        "android_client_info": {
+          "package_name": "com.kartik.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967180839851-2smiae85t1lquldf6bes5hnblvem3q92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKcNcb62C9bTNRjaEtI_PdG7a4tJ5dhNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967180839851-2smiae85t1lquldf6bes5hnblvem3q92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
